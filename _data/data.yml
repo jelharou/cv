@@ -37,7 +37,7 @@ sidebar:
       - idiom: Arabic
         level: Basic
 
-#    interests:
+interests:
 #      - item: Climbing
 #        link:
 
@@ -47,13 +47,14 @@ career-profile:
       Versatile senior software architect with leadership roles and successful in designing and executing transformational roadmaps.
       Primary experience within Investment Banking and Digital Marketing.
       Excellent hands-on development skills.
+
 education:
     - degree: BA in Computer Science & Economics
       university: Oberlin College
       time: 1994 - 1999
       details:
+
 experiences:
-    title: Experience
     - role: CTO
       time: 2017 - Present
       company: A4G, San Francisco
@@ -91,7 +92,10 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-#projects:
+
+projects:
+
+publications:
 
 skills:
     title: Skills
