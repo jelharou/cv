@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: jelharou@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: jelharou
+    phone: +212 604-837649
+    website: jelharou.github.io #do not add http://
+    linkedin: jaafar
     github: jelharou
     gitlab:
     bitbucket:
@@ -34,21 +34,15 @@ sidebar:
       - idiom: Spanish
         level: Professional
         
-      - idiem: Arabic
-        levle: Basic
+      - idiom: Arabic
+        level: Basic
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+#    interests:
+#      - item: Climbing
+#        link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -57,9 +51,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BA in Computer Science & Economics
+      university: Oberlin College
+      time: 1994 - 1999
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
