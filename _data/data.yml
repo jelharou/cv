@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: jelharou@gmail.com
     phone: +212 604-837649
-    website: jelharou.github.io #do not add http://
+    website: #do not add http://
     linkedin: jaafar
     github: jelharou
     gitlab:
     bitbucket:
-    twitter: '@jelharou'
+    twitter: #'@jelharou'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
