@@ -53,6 +53,7 @@ education:
       time: 1994 - 1999
       details:
 experiences:
+    title: Experience
     - role: CTO
       time: 2017 - Present
       company: A4G, San Francisco
@@ -93,7 +94,7 @@ experiences:
 #projects:
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Python & Django
