@@ -49,27 +49,25 @@ career-profile:
       Excellent hands-on development skills.
 
 education:
-    - degree: BA in Computer Science & Economics
+    - degree: B.A in Computer Science & Economics
       university: Oberlin College
-      time: 1994 - 1999
+      time: #1994 - 1999
       details:
 
 experiences:
     - role: CTO
-      time: 2017 - Present
-      company: A4G, San Francisco
+      time: Aug 2017 – Dec 2019
+      company: Ad4Game, Casablanca, Morocco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Ad4Game (A4G) is an online Advertising Network with over 350 million unique visitors per month.
+        It also offers a separate Demand Side Platform (DSP) processing in excess of 4 billion requests per day.
+        As part of responsibilities:
+        - Run the distributed A4G technology team in maintaining and enhancing the proprietary ad server with associated publisher, advertiser and affiliate platforms.
+        - Operate and grow the custom DSP, adding new functionality to improve offering, increasing client acquisition and overall revenue.
+        - Monitor and maintain overall infrastructure which is a mixture of bare-metal and virtual servers as well as AWS cloud services.
+        - Review and remediate systems and processes to achieve GDPR compliance.
+        Tech Stack: Java, PHP, Kafka, Spark, Aeropspike, MariaDB and Infobright on CentOS; JIRA with Kanban.
+        DSP Technology Stack: NodeJS, PHP, Aerospike, MySQL, RedShift, Kafka and ClickHouse on Ubuntu with Docker; JIRA with Scrum.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Citigroup, London
